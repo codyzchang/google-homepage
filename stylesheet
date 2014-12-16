@@ -1,0 +1,73 @@
+#header {
+  position: right;
+  text-align: right;
+  margin: 0px 25px 100px  
+
+}
+
+#navbar {
+  list-style-type: none;
+  position: right;
+  font-size: 1.3em;
+  
+}
+
+li {
+  display: inline;
+  margin: 10px; 
+  font-family: Helvetica;
+   
+}
+
+#r_footer {
+  text-align: right;
+  float: right;
+  margin-right: 25px;
+  margin-top: 200px;
+  margin-bottom: 10px;
+  font-size: 1.3em;
+}
+
+#l_footer {
+  text-align: left;
+  float: left;
+  margin-top: 200px;
+  position: bottom;
+  font-size: 1.3em;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.search {
+  
+  display: block;
+  margin-left: auto;
+  margin-top: 25px;
+  margin-right: auto;
+  width: 800px;
+  height: 30px;
+  font-size: 1.0em;
+}
+
+.button {
+  margin: 20px auto auto auto;
+  text-align: center;
+  font-size: 1.3em;
+  width: 400px;
+  height: 20px;
+
+}
+
+#btn_s {
+  width: 100px;
+  height: 30px;
+}
+
+#btn_i {
+  width: 125px;
+  height: 30px;
+}
